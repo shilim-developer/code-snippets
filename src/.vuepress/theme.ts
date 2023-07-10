@@ -8,7 +8,7 @@ export default hopeTheme({
 
   author: {
     name: "shiilm",
-    url: "https://mister-hope.com",
+    url: "https://shilim.cn",
   },
   iconAssets: "fontawesome-with-brands",
 
